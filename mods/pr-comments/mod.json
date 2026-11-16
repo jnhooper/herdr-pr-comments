@@ -1,0 +1,5 @@
+{
+  "place": "none",
+  "title": "Pull request",
+  "panel": { "label": "PR", "icon": "pr.svg" }
+}
